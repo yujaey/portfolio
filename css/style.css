@@ -598,13 +598,7 @@ a.active {
     margin-bottom: 1.2em;
     padding: 0.25em 1em 0.2em 1em;
 }
-@media (max-width: 500px) {
-    .experiencemap{
-        width: 100%;
-        max-width: 100%;
-        height: auto;
-    }
-}
+
 /* skill section
 ==================================================*/
 #skills{
